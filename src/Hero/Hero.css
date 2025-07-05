@@ -1,0 +1,49 @@
+
+.hero{
+    margin-top: 100px;
+}
+
+
+.hero-subtitle{
+    font-weight: 500;
+    font-family: "Roboto";
+    font-size: 16px;
+    color: #DC780B;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.hero-title{
+    font-size: 32px;
+    font-weight: 700;
+    font-family: "Philosopher";
+    text-align: center;
+    margin-bottom: 40px;
+}
+.hero-img{
+    width: 45px;
+    height: 45px;
+    margin-bottom: 25px;
+}
+.item-title{
+    font-size: 25px;
+    font-weight: 700;
+    font-family: "Philosopher";
+}
+.item-text{
+    font-size: 16px;
+    font-family: "Roboto";
+    text-align: center;
+    margin-top: 15px;
+}
+.hero-item{
+    width: 300px;
+    height: 230px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.hero-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

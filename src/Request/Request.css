@@ -1,0 +1,60 @@
+
+.request{
+    padding-top: 100px;
+    margin-top: 100px;
+    background-color: #e2c4a4;
+    padding-bottom: 100px;
+}
+
+.request-subtitle{
+    font-size: 16px;
+    font-weight: 500;
+    color: #DC780B;
+    font-family: "Roboto";
+    text-align: center;
+    margin-bottom: 10px;
+}
+.request-title{
+    font-size: 32px;
+    font-family: "Philosopher";
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 30px;
+}
+#message{
+    font-size: 16px;
+    color: grey;
+    font-family: "Roboto";
+    font-weight: 500;
+    width: 590px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 5px ;
+    border: none;
+}
+
+.rqst-btn{
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 2px solid #DC780B;
+    background-color: #DC780B;
+    color: white;
+    font-size: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+.rqst-btn:hover{
+    color: #DC780B;
+    background-color: white;
+    transition: .5s;
+}
+#request-form{
+    width: 700px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    background-color: white;
+    margin-left: 250px;
+}

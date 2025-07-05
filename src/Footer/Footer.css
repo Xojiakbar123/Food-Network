@@ -1,0 +1,49 @@
+
+
+.footer{
+    background-color: #252525;
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+
+.footer-img{
+    width: 60px;
+    height: 60px;
+    margin-bottom: 15px;
+}
+.footer-link{
+    font-size: 14px;
+    color: grey;
+    font-family: "Roboto";
+    width: 180px;
+    margin-top: 10px;
+}
+.footer-link:hover{
+    color: white;
+    text-decoration: underline;
+}
+.footer-head-link{
+    font-size: 18px;
+    font-family: "Philosopher";
+    font-weight: 700;
+    color: white;
+    margin-bottom: 5px;
+}
+.footer-item{
+    display: flex;
+    flex-direction: column;
+}
+.footer-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logos{
+    margin-top: 10px;
+    width: 110px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+

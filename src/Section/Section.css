@@ -1,0 +1,56 @@
+
+
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+.section-title{
+    font-size: 50px;
+    font-weight: 700;
+    font-family: "Philosopher";
+    margin-bottom: 40px;
+}
+.section-text{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Roboto";
+    margin-bottom: 40px;
+}
+.section-btn{
+    font-size: 16px;
+    color: white;
+    padding: 10px 20px;
+    border: 2px solid #DC780B;
+    border-radius: 5px;
+    background-color: #DC780B;
+}
+.section-btn:hover{
+    background-color: white;
+    color: #DC780B;
+    transition: .5s;
+}
+.section-item:nth-child(1){
+    width: 555px;
+    display: flex;
+    flex-direction: column;
+}
+.section-btns{
+    width: 280px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.section-img{
+    width: 640px;
+    height: 550px;
+}
+.section-list{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
